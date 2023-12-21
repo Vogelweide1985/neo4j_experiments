@@ -1,0 +1,80 @@
+﻿Typ;Kategorie;Untekategorie
+Softskills;Kommunikationsfähigkeit und soziale Kompetenz;Kommunikationsfähigkeit
+Softskills;Kommunikationsfähigkeit und soziale Kompetenz;Empathie
+Softskills;Kommunikationsfähigkeit und soziale Kompetenz;Teamfähigkeit
+Softskills;Kommunikationsfähigkeit und soziale Kompetenz;Konfliktlösung
+Softskills;Kommunikationsfähigkeit und soziale Kompetenz;Empathische Kommunikation
+Softskills;Kommunikationsfähigkeit und soziale Kompetenz;Kundenorientierung
+Softskills;Kommunikationsfähigkeit und soziale Kompetenz;Networking
+Softskills;Selbstmanagement und Persönlichkeitsentwicklung;Flexibilität
+Softskills;Selbstmanagement und Persönlichkeitsentwicklung;Selbstmotivation
+Softskills;Selbstmanagement und Persönlichkeitsentwicklung;Belastbarkeit
+Softskills;Selbstmanagement und Persönlichkeitsentwicklung;Emotional Intelligence
+Softskills;Selbstmanagement und Persönlichkeitsentwicklung;Analytisches Denken
+Softskills;Selbstmanagement und Persönlichkeitsentwicklung;Entscheidungsfreude
+Softskills;Selbstmanagement und Persönlichkeitsentwicklung;Zielorientierung
+Softskills;Selbstmanagement und Persönlichkeitsentwicklung;Offenheit für Feedback
+Softskills;Selbstmanagement und Persönlichkeitsentwicklung;Selbstreflexion
+Softskills;Führungsqualitäten und zwischenmenschliche Fähigkeiten:;Teamführung
+Softskills;Führungsqualitäten und zwischenmenschliche Fähigkeiten:;Verhandlungsgeschick
+Softskills;Führungsqualitäten und zwischenmenschliche Fähigkeiten:;Konfliktmanagement
+Softskills;Führungsqualitäten und zwischenmenschliche Fähigkeiten:;Durchsetzungsvermögen
+Softskills;Lern- und Organisationskompetenz;Kreativität
+Softskills;Lern- und Organisationskompetenz;Zeitmanagement
+Softskills;Lern- und Organisationskompetenz;Organisationsfähigkeit
+Softskills;Lern- und Organisationskompetenz;Lernbereitschaft
+Hardskills;Programmiersprachen und Entwicklung;Java
+Hardskills;Programmiersprachen und Entwicklung;Python
+Hardskills;Programmiersprachen und Entwicklung;C++
+Hardskills;Programmiersprachen und Entwicklung;JavaScript
+Hardskills;Programmiersprachen und Entwicklung;Ruby
+Hardskills;Programmiersprachen und Entwicklung;PHP
+Hardskills;Programmiersprachen und Entwicklung;Swift
+Hardskills;Programmiersprachen und Entwicklung;Kotlin
+Hardskills;Programmiersprachen und Entwicklung;C#
+Hardskills;Programmiersprachen und Entwicklung;Go (Golang)
+Hardskills;Webentwicklung und Frontend-Technologien;HTML5
+Hardskills;Webentwicklung und Frontend-Technologien;CSS3
+Hardskills;Webentwicklung und Frontend-Technologien;React.js
+Hardskills;Webentwicklung und Frontend-Technologien;Angular
+Hardskills;Webentwicklung und Frontend-Technologien;Vue.js
+Hardskills;Webentwicklung und Frontend-Technologien;Bootstrap
+Hardskills;Webentwicklung und Frontend-Technologien;jQuery
+Hardskills;Datenbanken und Datenmanagement;SQL (Structured Query Language)
+Hardskills;Datenbanken und Datenmanagement;MySQL
+Hardskills;Datenbanken und Datenmanagement;PostgreSQL
+Hardskills;Datenbanken und Datenmanagement;MongoDB
+Hardskills;Datenbanken und Datenmanagement;Oracle
+Hardskills;Datenbanken und Datenmanagement;Microsoft SQL Server
+Hardskills;Datenbanken und Datenmanagement;Datenbankdesign
+Hardskills;Cloud Computing und DevOps;Amazon Web Services (AWS)
+Hardskills;Cloud Computing und DevOps;Microsoft Azure
+Hardskills;Cloud Computing und DevOps;Google Cloud Platform (GCP)
+Hardskills;Cloud Computing und DevOps;Docker
+Hardskills;Cloud Computing und DevOps;Kubernetes
+Hardskills;Cloud Computing und DevOps;Continuous Integration / Continuous Deployment (CI/CD)
+Hardskills;Backend-Entwicklung und Frameworks;Node.js
+Hardskills;Backend-Entwicklung und Frameworks;Express.js
+Hardskills;Backend-Entwicklung und Frameworks;Spring Framework (Java)
+Hardskills;Backend-Entwicklung und Frameworks;Django (Python)
+Hardskills;Backend-Entwicklung und Frameworks;Ruby on Rails
+Hardskills;Backend-Entwicklung und Frameworks;Laravel (PHP)
+Hardskills;Cybersecurity und IT-Sicherheit:;Netzwerksicherheit
+Hardskills;Cybersecurity und IT-Sicherheit:;Ethical Hacking
+Hardskills;Cybersecurity und IT-Sicherheit:;Penetration Testing
+Hardskills;Cybersecurity und IT-Sicherheit:;Informationssicherheitsmanagement
+Hardskills;Cybersecurity und IT-Sicherheit:;Incident Response
+Hardskills;Mobile App Entwicklung;Android App Entwicklung (Java/Kotlin)
+Hardskills;Mobile App Entwicklung;iOS App Entwicklung (Swift)
+Hardskills;Mobile App Entwicklung;Cross-Platform-Entwicklung (z. B. React Native, Flutter)
+Hardskills;Datenanalyse und künstliche Intelligenz;Data Science
+Hardskills;Datenanalyse und künstliche Intelligenz;Maschinelles Lernen (Machine Learning)
+Hardskills;Datenanalyse und künstliche Intelligenz;Künstliche Intelligenz (AI)
+Hardskills;Datenanalyse und künstliche Intelligenz;Deep Learning
+Hardskills;Datenanalyse und künstliche Intelligenz;Data Mining
+Hardskills;Betriebssysteme und Netzwerke;Linux-Administration
+Hardskills;Betriebssysteme und Netzwerke;Windows Server-Administration
+Hardskills;Betriebssysteme und Netzwerke;Netzwerkadministration
+Hardskills;Testen und Qualitätssicherung;Testautomatisierung
+Hardskills;Testen und Qualitätssicherung;Testmanagement
+Hardskills;Testen und Qualitätssicherung;Last- und Performance-Testing
